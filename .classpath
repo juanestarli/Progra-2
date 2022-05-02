@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="D:/Parcial5c4b34e5663fe9b1119b57841c6a5b7782600d0a8eda838ca3053e680f3449d6.jar" sourcepath="D:/Parcial.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Usuario/Desktop/UADE/2DO AÑO/1ER CUATRI/PROGRAMACION 2/parcial.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
